@@ -34,9 +34,3 @@ Mobile augmented reality (AR) application designed to enhance users' understandi
 | TensorFlow & ML Kit | Object detection and image analysis             |
 | Custom UI Design  | Tailored for clarity, accessibility, engagement |
 
-
-> _To be added: guidelines for contributing, reporting issues, and submitting pull requests._
-
-```
-
-Let me know if you'd like to add setup instructions, screenshots, or a demo section next.
